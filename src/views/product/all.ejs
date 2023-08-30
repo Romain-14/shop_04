@@ -1,0 +1,14 @@
+
+    <section class="wrapper_card_product">
+        <h2>Tous nos produits</h2>
+
+            <% for(const data of datas) {%>
+                <a href="/product/<%= data.id %>" class="card_product" >
+                    <article>
+                        <h3><%= data.label %></h3>
+                        <img src="/img/<%= data.url_img %>" alt="" />
+                    </article>
+                </a>
+            <% } %>
+        
+    </section>    

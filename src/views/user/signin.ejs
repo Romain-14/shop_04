@@ -1,0 +1,12 @@
+    <div class="wrapper_form">
+        <% if(msg) {%>
+            <p><%= msg %></p>
+        <% } %>
+        <form action="/user/signin" method="post">
+            <input type="email" name="email" placeholder="Votre adresse mail">
+            <input type="password" name="password" placeholder="Votre mot de passe">
+            <input type="submit" value="Se connecter">
+        </form>
+        
+        <p>Pas de compte ? En créer un <a href="/user/signup">👉 <span>ici</span> 👈</a></p>
+    </div>

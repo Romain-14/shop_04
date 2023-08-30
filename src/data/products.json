@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "label": "Short",
+        "content": "magnifique short bleu avec des petites fleurs ambiance Hawai",
+        "price": 7.99,
+        "category": "Vêtement",
+        "url_img": "no_picture.png",
+        "seller": "Décathlent",
+        "addedDate": "28/08/2023",
+        "qtyInStock": 47,
+        "ref": "AZ123"
+    },
+    {
+        "id": 2,
+        "label": "Télé low resolution",
+        "content": "superbe écran cathodique de grand-père",
+        "price": 24.99,
+        "category": "Multimédia",
+        "url_img": "tele.jpg",
+        "seller": "Louis la Brocante",
+        "addedDate": "14/08/2023",
+        "qtyInStock": 7,
+        "ref": "AS423"
+    },
+    {
+        "id": 3,
+        "label": "Table de jardin",
+        "content": "table extérieur pour se pauser en famille",
+        "price": 224.99,
+        "category": "Jardin",
+        "url_img": "no_picture.png",
+        "seller": "Jardigland",
+        "addedDate": "9/06/2023",
+        "qtyInStock": 13,
+        "ref": "CS698"
+    },
+    {
+        "id": 4,
+        "label": "Tapis volant",
+        "content": "Véritable tapis volant appartenant au grand Aladdin sisi je te jure mon ami",
+        "price": 964.99,
+        "category": "mobilier",
+        "url_img": "no_picture.png",
+        "seller": "Tati",
+        "addedDate": "02/04/2023",
+        "qtyInStock": 49,
+        "ref": "OP666"
+    },
+    {
+        "id": 5,
+        "label": "PlayStation 8",
+        "content": "Elle arrive tout droit du futur .. vas-y Marty prends là !",
+        "price": 1524.99,
+        "category": "Multimédia",
+        "url_img": "no_picture.png",
+        "seller": "Doc'",
+        "addedDate": "01/01/2028",
+        "qtyInStock": 1,
+        "ref": "MA411"
+    },
+    {
+        "id": 6,
+        "label": "PlayStation 9",
+        "content": "Elle arrive tout droit du futur .. vas-y Marty prends là !",
+        "price": 1524.99,
+        "category": "Multimédia",
+        "url_img": "ps9.jpg",
+        "seller": "Doc'",
+        "addedDate": "01/01/2028",
+        "qtyInStock": 1,
+        "ref": "MA411"
+    },
+    {
+        "id": 7,
+        "label": "PlayStation 10",
+        "content": "Elle arrive tout droit du futur .. vas-y Marty prends là !",
+        "price": 1524.99,
+        "category": "Multimédia",
+        "url_img": "no_picture.png",
+        "seller": "Doc'",
+        "addedDate": "01/01/2028",
+        "qtyInStock": 1,
+        "ref": "MA411"
+    }
+]
